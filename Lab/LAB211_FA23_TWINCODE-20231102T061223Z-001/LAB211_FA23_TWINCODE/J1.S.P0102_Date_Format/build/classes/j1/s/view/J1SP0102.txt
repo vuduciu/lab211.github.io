@@ -1,0 +1,33 @@
+
+LAB211 Assignment
+Type:
+Short Assignment
+Code:
+J1.S.P0102
+LOC:
+20 
+Slot(s):
+1
+
+
+Title
+	Format Date
+Background 
+N/A
+
+Program Specifications
+Write a program to takes input date as [dd/mm/yyyy] format and find out the day of entered date.
+d: day 
+m: month 
+Function details:
+
+User enter date with [dd/mm/yyyy] format 
+Check user input date exits
+Determine day of week with input date
+
+Expectation of User interface:
+The Program must have interface as below:
+
+Please enter date with format [dd/mm/yyyy]: 12/12/1988
+Your day is Monday
+
